@@ -1,0 +1,17 @@
+{
+  "name": "presidenciables-chile-2017-api",
+  "version": "1.0.0",
+  "description": "API REST candidatos presidenciables Chile 2017",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  },
+  "engines": {
+    "node": "6.11.1"
+  }
+}
